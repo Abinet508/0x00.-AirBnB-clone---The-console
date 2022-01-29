@@ -28,14 +28,12 @@ The console is a Unix shell-like command line user interface provided by the pyt
 
 Help command example
 
-```
+
 (hbnb) help
 
 Documented commands (type help <topic>):
 ========================================
 EOF  all  count  create  destroy  help  quit  show  update
-
-```sh
 
 ## Class Models Used
 
