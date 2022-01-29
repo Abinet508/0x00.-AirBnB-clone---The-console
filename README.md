@@ -8,9 +8,9 @@
 ## Console and Command Usage
 The console is a Unix shell-like command line user interface provided by the python CmdModule It prints a prompt and waits for the user for input, for our project we used (hbnb)
 
-|          Command                    |                   Example                                                    |
+| Command | Example   |
 
-| ----------------------------------- | ---------------------------------------------------------------------------- |
+| ------- | --------- |
 
 |Display commands help                | (hbnb) help <command>                                                        |
 
@@ -37,15 +37,15 @@ EOF  all  count  create  destroy  help  quit  show  update
 
 ## Class Models Used
 
-|  File	            |  Description                                |   Attributes                                        |
+|  File	            |  Description  |   Attributes  |
 
-|-----------------  | ------------------------------------------- | --------------------------------------------------- |
+|-----------------  | ------------- | ------------  |
 
-| base_model.py     |The BaseModel class is inherited by other    |id, created_at, updated_at                           |
+| base_model.py     |The BaseModel class is inherited by other |id, created_at, updated_at |
 
-|user.py            |User class stores user-related info          |email, password, first_name, last_name               |
+|user.py            |User class stores user-related info          |email, password, first_name, last_name |
 
-|city.py	    |City class stores city-specific information  |	state_id, name                                  |
+|city.py	    |City class stores city-specific information  |state_id, name |
 
 |state.py	    |State class stores state-specific information|	name                                            |
 
