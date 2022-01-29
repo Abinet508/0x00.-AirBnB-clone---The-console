@@ -1,5 +1,5 @@
 ### 0x00.AirBnB-clone-The-console
-![AirBnB clone](./C:\Users\insa\Desktop\airbnb.png)
+![AirBnB clone](C:\Users\insa\Desktop\airbnb.png)
 
 ## Description
  This team project is part of alx  Software Engineer program. It's the first step towards building a first full web application: an AirBnB clone.
@@ -23,10 +23,8 @@ Help command example
 
 (hbnb) help
 
-Documented commands (type help <topic>):
-========================================
+## Documented commands (type help <topic>):
 EOF  all  count  create  destroy  help  quit  show  update
-
 ## Class Models Used
 
 |  File	            |  Description  |   Attributes  |
@@ -50,6 +48,6 @@ EOF  all  count  create  destroy  help  quit  show  update
 All the code is tested with the unittest module. The test for the classes are inthe`test_models folder`.
 ## Authors
 * Abinet Tesfu    - [Abinet](https://github.com/Abinet508)
-* Susinios Legese - [Susinios}(https://github.com/Susiniosgit)
+* Susinios Legese - [Susinios](https://github.com/Susiniosgit)
  
 
