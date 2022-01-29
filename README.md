@@ -40,7 +40,6 @@ EOF  all  count  create  destroy  help  quit  show  update
 |                   |of rental unit features	                  |city_id, user_id, name, description,number_rooms,    |
 |                   |                                             |number_rooms, number_bathrooms, max_guest,           |
 |                   |                                             |price_by_night, latitude, longitude, amenity_ids     |
-|                   |                                             |                                                     |
 |review.py          |Review class stores previous customer reviews|place_id, user_id, text                              |                  
 |                   |and opinions                                 |                                                     |
 |amenity.py         |Amenity class stores highlighted amenity     | name                                                |
