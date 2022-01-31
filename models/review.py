@@ -1,14 +1,12 @@
-#!/usr/bin/python
-""" holds class Review"""
+#!/usr/bin/python3
+"""Defines the State class."""
 from models.base_model import BaseModel
 
 
-class Review(BaseModel):
-    """Representation of Review """
-    place_id = ""
-    user_id = ""
-    text = ""
+class State(BaseModel):
+    """Represent a state.
+    Attributes:
+        name (str): The name of the state.
+    """
 
-    def __init__(self, *args, **kwargs):
-        """initializes Review"""
-        super().__init__(*args, **kwargs)
+    name = ""
